@@ -1,2 +1,2 @@
-# Demo_TTTN
+# Simple Firebase
 A project to learn about Firebase
